@@ -20,5 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhanviyadav18&show_icons=true&locale=en&layout=compact" alt="jhanviyadav18" /></p>
 
+## Play the Snake Game! 🐍
+[Click here to play](https://your-game-url.com)
 
 
