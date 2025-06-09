@@ -24,5 +24,6 @@
 </div>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhanviyadav18&show_icons=true&locale=en&layout=compact" alt="jhanviyadav18" /></p>
+<p><img align="display flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhanviyadav18&show_icons=true&locale=en&layout=compact" alt="jhanviyadav18" /></p>
+
 
