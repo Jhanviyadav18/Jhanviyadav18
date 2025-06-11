@@ -51,7 +51,7 @@
 ###
 
 <div>
-<h3 align="left">Here's a snake eating my contributions: </h3>
+<h3 align="left">Here's a Snake eating my Contributions: </h3>
 <img src="https://raw.githubusercontent.com/Jhanviyadav18/snk/output/snake.svg" alt="Snake animation" />
 </div>
 
