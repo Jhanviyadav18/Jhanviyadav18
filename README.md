@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhanviyadav18&label=Profile%20views&color=0e75b6&style=flat" alt="Jhanviyadav18" /> </p>
 
 <h3 align="left">👩‍💻  About Me</h3>
+
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
+
 - 📫 How to reach me **jhanviyadav586@gmail.com**
 
 ###
@@ -41,9 +43,7 @@
 
 ###
 <h3 align="left">Here's My streak and languages graph: </h3>
-
 <div align="center">
-  
    <img src="https://streak-stats.demolab.com?user=Jhanviyadav18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhanviyadav18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
