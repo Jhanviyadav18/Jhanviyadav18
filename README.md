@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhanviyadav18&label=Profile%20views&color=0e75b6&style=flat" alt="Jhanviyadav18" /> </p>
 
 <h3 align="left">👩‍💻  About Me</h3>
-
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
-
 - 📫 How to reach me **jhanviyadav586@gmail.com**
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <!--   <a href="https://discord.gg/jhanviyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jhanviyadav" height="30" width="40" /></a> -->
 </p>
 
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -39,7 +40,7 @@
 
 
 ###
-<h3 align="center">Here's My streak and languages graph: </h3>
+<h3 align="left">Here's My streak and languages graph: </h3>
 
 <div align="center">
   
@@ -47,9 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhanviyadav18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div>
 <h3 align="left">Here's a snake eating my contributions: </h3>
-
-#### P.S- He might die from hunger: ####
-
 <img src="https://raw.githubusercontent.com/Jhanviyadav18/snk/output/snake.svg" alt="Snake animation" />
+</div>
 
