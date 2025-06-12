@@ -16,7 +16,6 @@
 <a href="https://instagram.com/jhanvi.yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhanvi.yadav_" height="30" width="40" /></a>
   <a href="https://twitter.com/Jhanvi_yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jhanvi_yadav_" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/Jhanviyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jhanviyadav" height="30" width="40" /></a>
-<!--   <a href="https://discord.gg/jhanviyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jhanviyadav" height="30" width="40" /></a> -->
 </p>
 
 ###
@@ -42,6 +41,9 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
 </div>
 
 
