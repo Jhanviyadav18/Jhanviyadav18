@@ -59,5 +59,7 @@
 <img src="https://raw.githubusercontent.com/Jhanviyadav18/snk/output/snake.svg" alt="Snake animation" />
 </div>
 
+<h3 align="left">Here's My LeetCode Stats:</h3>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jhanviyadav?theme=radical&font=Comic%20Sans%20MS&ext=heatmap)
 
