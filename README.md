@@ -4,9 +4,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 I’m currently learning **Spring Boot + REST APIs.**
+- 🌱 I’m currently learning: **Spring Boot + REST APIs.**
 
-- 📫 How to reach me **jhanviyadav586@gmail.com**
+- 📫 How to reach me: **jhanviyadav586@gmail.com**
   
 - ⚡ Fun fact:  **I can't explain, but I'll find a song that will.** 
 
