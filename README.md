@@ -8,7 +8,8 @@
 
 - 📫 How to reach me: **jhanviyadav586@gmail.com**
   
-- ⚡ Fun fact:  **I can't explain, but I'll find a song that will.** 
+-  - 📝 I write articles <a href="https://medium.com/@jhanviyadav588">Here</a>. 
+  
 
 ###
 
