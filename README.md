@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **jhanviyadav586@gmail.com**
   
--  - 📝 I write articles <a href="https://medium.com/@jhanviyadav588">Here</a>. 
+- 📝 I write articles <a href="https://medium.com/@jhanviyadav588"> Here</a>. 
   
 
 ###
