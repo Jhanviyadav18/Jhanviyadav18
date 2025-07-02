@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: **Spring Boot + REST APIs.**
 - 📝 I write articles <a href="https://medium.com/@jhanviyadav588"> Here</a>
 - 📫 How to reach me: **jhanviyadav586@gmail.com**
-- 💬 Ask me about **HTML, CSS, JS, Java**
+- 💬 Ask me about **Java**
   
 
 ###
