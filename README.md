@@ -11,7 +11,6 @@
 - 📫 How to reach me: **jhanviyadav586@gmail.com**
 - 💬 Ask me about **Java**
   
-
 ###
 
 <h3 align="left">Connect with me:</h3>
