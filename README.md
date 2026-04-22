@@ -67,4 +67,4 @@ He might die from hunger ~
 <img src="https://raw.githubusercontent.com/Jhanviyadav18/snk/output/snake.svg" alt="Snake animation" />
 </div>
   
-================================================================================
+==================================================================================
